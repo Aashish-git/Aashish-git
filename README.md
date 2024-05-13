@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">
-Certainly!
+
 
  An Android developer who loves problem-solving and creative design. Let's build something awesome together!</h3>
 
