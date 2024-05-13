@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">
+Certainly!
+
+ An Android developer who loves problem-solving and creative design. Let's build something awesome together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-git&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-git" /> </p>
 
